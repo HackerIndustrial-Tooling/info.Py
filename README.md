@@ -15,7 +15,8 @@ cd info.py
 ```
 
 start an interactive python shell:
-```python3
+```
+python3
 ```
 
 then import the following:
